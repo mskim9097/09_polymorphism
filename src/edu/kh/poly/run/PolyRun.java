@@ -9,10 +9,10 @@ public class PolyRun {
 		PolyService ps = new PolyService();
 		
 		//ps.ex1();
-		//ps.ex2();
+		ps.ex2();
 		//ps.ex3();
 		//ps.ex4();
-		ps.ex5();
+		//ps.ex5();
 	}
 
 }

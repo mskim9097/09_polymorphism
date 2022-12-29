@@ -106,7 +106,7 @@ public class PolyService {
 		printCar(c);
 		//printCar2(t);
 		//printCar2(s);
-		//printCAr2(c);
+		//printCar2(c);
 		System.out.println("=============================");
 		
 		// 4) 다형성을 이용한 반환형 사용법
